@@ -29,8 +29,8 @@
     <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_cross_indexation_gene_polyphenol_association.tsv'>df_cross_indexation_gene_polyphenol_association.tsv</a>: tsv file containing dataframe with indexed pubmed abstracts for <strong> gene-polyphenol entities associations </strong>.</li>
 
  <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_cross_indexation_polyphenol_cancer_association_frequency.tsv'>df_cross_indexation_polyphenol_cancer_association_frequency.tsv</a>: tsv file containing dataframe with <strong> total of cancers indexed for each polyphenol</strong>.</li>
- <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_cross_indexation_cancer_polyphenol_association_frequency.tsv'>df_cross_indexation_cancer_polyphenol_association_frequency.tsv</a>: tsv file containing dataframe with <strong> polyphenols indexed for each cancer</strong>.</li>
- <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_cross_indexation_gene_polyphenol_association_frequency.tsv'>df_cross_indexation_gene_polyphenol_association_frequency.tsv</a>: tsv file containing dataframe with <strong> polyphenols indexed for each gene</strong>.</li>
+ <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_cross_indexation_cancer_polyphenol_association_frequency.tsv'>df_cross_indexation_cancer_polyphenol_association_frequency.tsv</a>: tsv file containing dataframe with <strong> total of polyphenols indexed for each cancer</strong>.</li>
+ <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_cross_indexation_gene_polyphenol_association_frequency.tsv'>df_cross_indexation_gene_polyphenol_association_frequency.tsv</a>: tsv file containing dataframe with <strong> total of polyphenols indexed for each gene</strong>.</li>
 </ul>
 
 
