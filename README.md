@@ -1,7 +1,8 @@
 <h1>Indexing of Extracted Information</h1>
 
 <p>This repository contains files and information about <strong> step 3 of Kaphta Architecture: Indexing of Extracted Information</strong>. In this stage, PubMed abstracts  with extracted information (<a href='https://github.com/ramongsilva/Information-extraction-from-pubmed-abstracts-sentences-on-polyphenols-anticancer-activity'>Information Extraction step</a>) are indexed. There are 2 indexations, using the R language: Individual and Cross indexations. The individual indexations are for entities about polyphenols, cancer and genes, and the cross indexations are for polyphenol-cancer and polyphenol-gene entity associations. The following are listed the files and results of this stage.
-  </p>
+  </p>  
+      <p>For more information about this and other steps of the Kaphta Architecture, <strong>see sections of the Kaptha Web Tool available in <a href="https://portal.ifsuldeminas.edu.br/kaphtawebtool/" target="_blank">https://portal.ifsuldeminas.edu.br/kaphtawebtool/</a></strong>.</p>
 
 <h2>Individual and Cross indexations</h2>
 <ul>
