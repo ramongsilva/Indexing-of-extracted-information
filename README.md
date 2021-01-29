@@ -19,7 +19,7 @@
 
 
 <h2>Results</h2>
-<p>Bellow are presented files from the <a href='https://github.com/ramongsilva/Indexing-of-extracted-information/tree/main/results'>results folder</a>, with the results for individual and cross indexation of PubMed abstracts.</p>
+<p>Below are presented files from the <a href='https://github.com/ramongsilva/Indexing-of-extracted-information/tree/main/results'>results folder</a>, with the results for individual and cross indexation of PubMed abstracts.</p>
 <h3>Individual indexation</h3>
 <ul>
    <li><a href='https://github.com/ramongsilva/Indexing-of-extracted-information/blob/main/results/df_polyphenol_individual_indexation.tsv'>df_polyphenol_individual_indexation.tsv</a>: tsv file containing data frame with indexed PubMed abstracts for <strong> polyphenol entities </strong>.</li>
